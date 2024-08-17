@@ -1,0 +1,3 @@
+C:/Users/emili/OneDrive/Desktop/TEC/Semestre 3/Estructura de datos y Algoritmos/Algoritmo de Busqueda Binaria/cmake-build-debug/CMakeFiles/Algoritmo_de_Busqueda_Binaria.dir
+C:/Users/emili/OneDrive/Desktop/TEC/Semestre 3/Estructura de datos y Algoritmos/Algoritmo de Busqueda Binaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emili/OneDrive/Desktop/TEC/Semestre 3/Estructura de datos y Algoritmos/Algoritmo de Busqueda Binaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
